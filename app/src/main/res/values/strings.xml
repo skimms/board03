@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">board03</string>
+
+    <string name="board_title">제목</string>
+    <string name="board_userid">아이디</string>
+    <string name="board_content">내용</string>
+
+    <string name="board_write">글쓰기</string>
+    <string name="board_delete">삭제</string>
+    <string name="board_complete">완료</string>
+    <string name="board_list">목록</string>
+    <string name="board_cancel">취소</string>
+    <string name="board_refresh">갱신</string>
+
+    <string name="board_confirm">확인</string>
+
+    <string name="board_delmsg">삭제하시겠습니까?</string>
+    <string name="board_noselect">선택된 항목이 없습니다.</string>
+
+</resources>
