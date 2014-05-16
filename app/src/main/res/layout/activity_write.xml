@@ -25,7 +25,7 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/editText"
                 android:singleLine="true"
-                android:maxLength="20" />
+                android:maxLength="15" />
         </TableRow>
 
         <TableRow>
@@ -43,7 +43,7 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/editText2"
                 android:singleLine="true"
-                android:maxLength="20" />
+                android:maxLength="15" />
         </TableRow>
 
         <TableRow>
@@ -57,8 +57,10 @@
                 android:id="@+id/textView3" />
 
             <EditText
-                android:layout_width="match_parent"
+                android:layout_width="0dp"
+                android:layout_weight="1"
                 android:textStyle="normal"
+                android:inputType="textMultiLine"
                 android:id="@+id/editText3"
                 android:maxLines="5"
                 android:gravity="top"
